@@ -29,9 +29,11 @@ http://www.cnblogs.com/SamWeb/p/6543931.html
 本项目我尽可能的简单明了，项目涉及到路由，其实更高级点，你可以在路由上配置按需加载，如
 
 {
+
         path: '',
         
         component: r => require.ensure([], () => r(require('../page/home')), 'home')
+        
 }
 
 但是，为了项目更明了，我用了最原始的也最直接的方法。
