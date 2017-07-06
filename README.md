@@ -12,7 +12,7 @@
 
 
 
-## Build Setup
+## 运行
 
 ``` bash
 # install dependencies
@@ -26,3 +26,15 @@ npm run build
 
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+##帮助文档：
+
+关于VUEX的一些文档，感觉写的通俗易懂，适合新手阅读。
+
+Vuex，从入门到入门   
+https://zhuanlan.zhihu.com/p/24357762
+
+vuex2.0 基本使用(2) --- mutation 和 action
+http://www.cnblogs.com/SamWeb/p/6543931.html
+
+
