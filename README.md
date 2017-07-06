@@ -11,6 +11,18 @@
     如有问题请直接在 Issues 中提，或者您发现问题并有非常好的解决方案，欢迎 PR 👍
 
 
+# 帮助文档：
+
+关于VUEX的一些文档，感觉写的通俗易懂，适合新手阅读。
+
+Vuex，从入门到入门   
+https://zhuanlan.zhihu.com/p/24357762
+
+vuex2.0 基本使用(2) --- mutation 和 action
+http://www.cnblogs.com/SamWeb/p/6543931.html
+
+
+
 
 ## 运行
 
@@ -29,14 +41,5 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 
 
-# 帮助文档：
-
-关于VUEX的一些文档，感觉写的通俗易懂，适合新手阅读。
-
-Vuex，从入门到入门   
-https://zhuanlan.zhihu.com/p/24357762
-
-vuex2.0 基本使用(2) --- mutation 和 action
-http://www.cnblogs.com/SamWeb/p/6543931.html
 
 
