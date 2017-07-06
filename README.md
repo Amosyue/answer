@@ -16,9 +16,11 @@
 关于VUEX的一些文档，感觉写的通俗易懂，适合新手阅读。
 
 Vuex，从入门到入门   
+
 https://zhuanlan.zhihu.com/p/24357762
 
 vuex2.0 基本使用(2) --- mutation 和 action
+
 http://www.cnblogs.com/SamWeb/p/6543931.html
 
 
@@ -28,6 +30,7 @@ http://www.cnblogs.com/SamWeb/p/6543931.html
 
 {
         path: '',
+        
         component: r => require.ensure([], () => r(require('../page/home')), 'home')
 }
 
