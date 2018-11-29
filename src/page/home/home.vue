@@ -2,7 +2,7 @@
   <div class="home">
     <v-header></v-header>
     <div class="tac">
-      <h1>智力测试12345</h1>
+      <h1>智力测试123456</h1>
       <div class="btn"><router-link to="item">开始答题</router-link></div>
     </div>
     <v-footer></v-footer>
